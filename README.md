@@ -11,7 +11,7 @@ It allows users to:
 <li>Download the modified image as jpg, png, gif or bmp</li>
 </ul>
 <h3>Demo:</h3>
-<a href="https://github.com/JSLlan/ImageProcessor/blob/main/Test_Screens_PDF.pdf">Test_Screens_PDF</a>
+<a href="https://github.com/JSLlan/ImageProcessor/blob/main/Test-Screens-PDF.pdf">Test_Screens_PDF</a>
 <h3>Class Diagram:</h3>
 <a href="https://github.com/JSLlan/ImageProcessor/blob/main/JavaFX_Class_Diagram.pdf">Class_Diagram</a>
 <h3>Project Structure:</h3>
